@@ -5,7 +5,7 @@ metadata:
   labels:
     app: application1
   name: application1
-  namespace: java-dev
+  namespace: java-prod
 spec:
   replicas: 1
   selector:
